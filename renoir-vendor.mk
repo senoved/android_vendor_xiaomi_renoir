@@ -194,12 +194,12 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/renoir/proprietary/vendor/etc/thermal-video.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-video.conf \
     vendor/xiaomi/renoir/proprietary/vendor/etc/thermal-youtube.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-youtube.conf \
     vendor/xiaomi/renoir/proprietary/vendor/etc/thermald-devices.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermald-devices.conf \
-    vendor/xiaomi/renoir/proprietary/vendor/firmware/0_click_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/0_click_P_RTP.bin \
-    vendor/xiaomi/renoir/proprietary/vendor/firmware/1_doubelClick_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/1_doubelClick_P_RTP.bin \
-    vendor/xiaomi/renoir/proprietary/vendor/firmware/2_tick_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/2_tick_P_RTP.bin \
-    vendor/xiaomi/renoir/proprietary/vendor/firmware/3_thud_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/3_thud_P_RTP.bin \
-    vendor/xiaomi/renoir/proprietary/vendor/firmware/4_pop_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/4_pop_P_RTP.bin \
-    vendor/xiaomi/renoir/proprietary/vendor/firmware/5_heavyClick_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/5_heavyClick_P_RTP.bin \
+    vendor/xiaomi/renoir/proprietary/vendor/etc/vibrator/effect_0.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_0.bin \
+    vendor/xiaomi/renoir/proprietary/vendor/etc/vibrator/effect_1.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_1.bin \
+    vendor/xiaomi/renoir/proprietary/vendor/etc/vibrator/effect_2.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_2.bin \
+    vendor/xiaomi/renoir/proprietary/vendor/etc/vibrator/effect_3.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_3.bin \
+    vendor/xiaomi/renoir/proprietary/vendor/etc/vibrator/effect_4.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_4.bin \
+    vendor/xiaomi/renoir/proprietary/vendor/etc/vibrator/effect_5.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_5.bin \
     vendor/xiaomi/renoir/proprietary/vendor/firmware/CAMERA_ICP.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.elf \
     vendor/xiaomi/renoir/proprietary/vendor/firmware/a660_gmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a660_gmu.bin \
     vendor/xiaomi/renoir/proprietary/vendor/firmware/a660_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a660_sqe.fw \
